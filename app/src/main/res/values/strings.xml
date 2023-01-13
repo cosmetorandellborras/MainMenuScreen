@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Main Menu Screen</string>
+    <string name="menu">MAIN MENU</string>
+    <string-array name="options">
+        <item>Play Game</item>
+        <item>View Scores</item>
+        <item>Settings</item>
+        <item>Help</item>
+    </string-array>
+</resources>
